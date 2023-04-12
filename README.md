@@ -20,7 +20,7 @@ EdGap.org do not indicate that they processed the data in any way. The data were
 
   The **School Information Data** is from the National Center for Education Statistics. This data set consists of basic identifying information about schools and can be assumed to be of reasonably high quality. As for the EdGap.org data, the school information data is public, so we would be able to consult the original data sources to check the quality of the data if we had any questions.
 
-The data set EdGap_data.xlsx can be accessed from the Github repository for DATA 3320 in the education Links to an external site. folder. 
+The data set EdGap_data.xlsx can be accessed from the Github repository for DATA 3320 in the [education](https://github.com/brian-fischer/DATA-3320/tree/main/education) folder. 
 
 The data set ccd_sch_029_1617_w_1a_11212017.csv is too large for Github and can be accessed from the dropbox link:
 
