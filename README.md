@@ -1,8 +1,12 @@
 # Education
-for DATA3320: exploring if school performance on the SAT or ACT can be predicted by socioeconomic factors.
+A project for Seattle University's DATA3320 class. <br>
+exploring if school performance on the SAT or ACT can be predicted by socioeconomic factors.
 
+## Requirements
 
 ~
+
+
 
 
 ## Data
@@ -19,7 +23,9 @@ The shcool information data set ccd_sch_029_1617_w_1a_11212017.csv is too large 
 https://www.dropbox.com/s/lkl5nvcdmwyoban/ccd_sch_029_1617_w_1a_11212017.csv?dl=0
 
 
-*
+~
+
+## License
 
 
 
