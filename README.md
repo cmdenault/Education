@@ -4,6 +4,8 @@ Exploring if school performance on the SAT or ACT can be predicted by socioecono
 
 ## Requirements
 
+  Colabratory
+
 ~
 
 
@@ -37,7 +39,7 @@ https://www.dropbox.com/s/lkl5nvcdmwyoban/ccd_sch_029_1617_w_1a_11212017.csv?dl=
     - imputing any NaN values
     - finalizing the clean data sets
   
-  You can find the file that preforms this preperation, named:
+  You can find the file that preforms this preperation, named: data_preparation.ipynb
   The clean data files for the training and test splits are in the clean_data folder, named: education_clean_train.csv & education_clean_test.csv
 
 ~
