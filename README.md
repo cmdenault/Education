@@ -39,7 +39,7 @@ https://www.dropbox.com/s/lkl5nvcdmwyoban/ccd_sch_029_1617_w_1a_11212017.csv?dl=
     - imputing any NaN values <br>
     - finalizing the clean data sets <br> <br>
   
-  You can find the file that preforms this preperation, named: data_preparation.ipynb <br>
+  You can find the file that preforms this preperation, named: education_data_preparation.ipynb <br>
   The clean data files for the training and test splits are in the clean_data folder, named: education_clean_train.csv & education_clean_test.csv. Training and testing data files for the additional state question are called state_data.csv and state_data_test.csv respectively.
 
 ~
