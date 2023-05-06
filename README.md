@@ -48,6 +48,6 @@ https://www.dropbox.com/s/lkl5nvcdmwyoban/ccd_sch_029_1617_w_1a_11212017.csv?dl=
 
   To analyze our clean data, I broke our larger question into relevent sub questions. I then went about answering those questions by creating regression models with all possible predictor variables, each one individually, and finding the best subset of predictor variables. An additional question was also posed in relation to the Pacific Northwest state of Washington and the Midwest state of Illinois about whether adding the region as a predictor would improve the model. <br> <br>
   
-  You can find the analysis notebook named: education_analysis.ipymn
+  You can find the analysis notebook named: education_analysis.ipynb
 
 
