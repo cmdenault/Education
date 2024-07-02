@@ -2,7 +2,13 @@
 A project for Seattle University's DATA3320 class. <br>
 Exploring if school performance on the SAT or ACT can be predicted by socioeconomic factors.
 
+
 ## Description
+
+<ul>
+  <li>Processed and prepared raw .csv data in Google Colabratory, including subsetting data and creating and training test splits</li>
+  <li>To analyze the relationship between school SAT/ACT performance and socio-economic factors, various regression models with different factors were created to find the best predictors.</li>
+</ul>
 
   This project explores whether school performance on the SAT or ACT be predicted by socioeconomic factors. Using school's average scores and a number of socioeconomic data points (ex. median income), that data was cleaned to enable the making of linear regression models. <br>
   Work was done to find the most optimal set of socioeconomic predictors of ACT scores, which ended up finding that the number of students on free/reduced lunch and the rate of unemployment increases, and percent of adults with a college degree decrease
